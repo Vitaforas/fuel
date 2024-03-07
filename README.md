@@ -1,4 +1,4 @@
-# vitaforas // "Freie Natur"
+# vitaforas "Freie Natur"
 # ColourFuel ⛽
 
 
